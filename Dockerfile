@@ -1,4 +1,4 @@
-FROM sammax23/rcmltb
+FROM codewithweeb/weebzone:stable
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
